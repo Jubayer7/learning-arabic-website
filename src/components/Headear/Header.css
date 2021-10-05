@@ -1,9 +1,9 @@
 .head-name{
     text-align: center;
-    color: rgb(65, 219, 34);
+    
 }
 .head{
-    background-color: blueviolet;
+    background-color: rgb(250, 197, 83);
     line-height: 100px;
 }
 .head Link{

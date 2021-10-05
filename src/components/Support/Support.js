@@ -1,9 +1,10 @@
 import React from 'react';
+import './Support.css'
 
 const Support = () => {
     return (
-        <div>
-            <h3>We provide our best.</h3>
+        <div className="container text-primary">
+            <h3>We provide our best Support for You!!!!!! </h3>
         </div>
     );
 };

@@ -8,11 +8,13 @@ import Services from './components/Services/Services';
 import Support from './components/Support/Support';
 import About from './components/About/About';
 import NotFound from './components/NotFound/NotFound';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
     <Router>
       <Header></Header>
+
       <Switch>
         <Route exact path="/">
           <Home></Home>
@@ -32,8 +34,9 @@ function App() {
         <Route path="*">
           <NotFound></NotFound>
         </Route>
-      </Switch>
 
+      </Switch>
+      <Footer></Footer>
     </Router>
   );
 }
