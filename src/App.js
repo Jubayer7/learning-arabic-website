@@ -9,7 +9,6 @@ import Support from './components/Support/Support';
 import About from './components/About/About';
 import NotFound from './components/NotFound/NotFound';
 
-
 function App() {
   return (
     <Router>
@@ -21,7 +20,7 @@ function App() {
         <Route exact path="/home">
           <Home></Home>
         </Route>
-        <Route path="service">
+        <Route path="/services">
           <Services></Services>
         </Route>
         <Route path="/support">
@@ -30,9 +29,9 @@ function App() {
         <Route path="/about">
           <About></About>
         </Route>
-        {/* <Route path="*">
+        <Route path="*">
           <NotFound></NotFound>
-        </Route> */}
+        </Route>
       </Switch>
 
     </Router>
