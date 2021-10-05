@@ -1,0 +1,16 @@
+.head-name{
+    text-align: center;
+    color: rgb(65, 219, 34);
+}
+.head{
+    background-color: blueviolet;
+    line-height: 100px;
+}
+.head Link{
+    color: white;
+}
+.link{
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Lets learn Arabic",
+        "price": "$300",
+        "img": "https://cdn.shopify.com/s/files/1/0939/6996/products/wcaa.jpg"
+    },
+    {
+        "name": "Practicl Writing Tips",
+        "price": "$400",
+        "img": "https://www.islamicity.org/global/images/photo/IC-Articles/Learning_Arabic_calligrapIC__800x600.JPG"
+    },
+    {
+        "name": "Modern Arabic Learning",
+        "price": "$600",
+        "img": "https://mk0kaleelao979sb1ktf.kinstacdn.com/wp-content/uploads/2019/08/arabic.jpg"
+    },
+    {
+        "name": "Business Arabic Learning",
+        "price": "$400",
+        "img": "https://mk0kaleelao979sb1ktf.kinstacdn.com/wp-content/uploads/2021/04/Advantages-of-Learning-Arabic-for-Business-1024x382.jpg"
+    },
+    {
+        "name": "Easy learn Arabic",
+        "price": "$500",
+        "img": "https://elearningindustry.com/wp-content/uploads/2019/10/professional-development-tools-for-teachers.jpg"
+    },
+    {
+        "name": "Learning grammer Arabic ",
+        "price": "$200",
+        "img": "https://elearningindustry.com/wp-content/uploads/2019/10/professional-development-tools-for-teachers.jpg"
+    },
+    {
+        "name": "Lets learn Arabic",
+        "price": "$15000",
+        "img": "https://elearningindustry.com/wp-content/uploads/2019/10/professional-development-tools-for-teachers.jpg"
+    }
+]
